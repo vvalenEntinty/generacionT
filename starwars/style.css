@@ -1,0 +1,62 @@
+* {margin:0 ;}
+
+header {
+        color: #ffe81f;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, 'Arial Narrow Bold', sans-serif;
+        text-align: center;
+        background-image: url("https://lumiere-a.akamaihd.net/v1/images/star-wars-backgrounds-25_bc15ec98.jpeg?download=true");
+
+}
+
+.imperio {
+        text-align: center;;
+        background-color: rgb(255, 0, 0); 
+        
+        
+}
+.imperiofondo{
+        background-image: url(star-wars-fondo-de-pantalla-de-la-estrella-de-la-muerte.png);
+
+}
+.rebeldes {
+        text-align: center;;
+        background-color: dodgerblue;
+
+
+}
+
+div li{
+        color: #ffe81f;
+        border: 1px solid #ffae00;
+        padding: 5px 15px;
+        margin: 20px;
+        display:inline-block
+}
+
+.tatooine{
+        background-image: url(tatooine.jpg);
+}
+#xwing{
+        left: auto;;
+}
+#droides{
+        position: relative;
+        top: -550px;
+        left: 800px;
+        width: 950px;
+        height: 50px;
+        border-radius: 50%;
+        margin: 0%;
+        
+        
+}
+#halcon{
+        position: relative;
+        top: 150px;
+        left: 400px;
+        width: 350px;
+        height: 50px;
+        border-radius: 50%;
+        margin: 0%;
+
+}
